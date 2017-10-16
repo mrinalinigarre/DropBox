@@ -1,4 +1,4 @@
-# Project
+# Basic DropBox
 This a client-server system application implementing a basic dropbox where a client may request a user for following four operations
 1. Uploading a file
 2. Download a file
